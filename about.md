@@ -16,5 +16,8 @@ permalink: /about/
 Software Engineering internship at Momenta 10/2018-03/2019
 
 ### Skills
-Programming Languages: C++/C, Python, Java, etc Web Technology: HTML, CSS, Javascript
+Programming Languages: C++/C, Python, Java, etc
+
+Web Technology: HTML, CSS, Javascript
+
 Others: Matlab
