@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 ## Zhao Jin
@@ -29,19 +29,22 @@ behaviors and emotions which were created by working with psychology professor b
 - Used the result of classification to predict attachment type and achieve achieved human level performance.
 - With this method involved, at least 95% time in analyzing video data can be saved.
 
-#### Personalities Study based on Personal Gaze Patterns 09/2018-05/2019 Research Assistant; Advisor: Jinshi Cui, Associate Professor at School of EECS, Peking University
+#### Personalities Study based on Personal Gaze Patterns 09/2018-05/2019
+- Research Assistant; Advisor: Jinshi Cui, Associate Professor at School of EECS, Peking University
 - Collected people’s gaze data and did the data preprocess.
 - Extracted features like fixations, saccades and pupil diameters and used a Random Forest algorithm to predict
 the Big Five personality. The prediction accuracy is better than state-of-the-arts.
 - This work has been presented in The 13th International Workshop on Robust Computer Vision(IWRCV2019)
 
-#### Kaggle Competition: Predict Future Sales 07/2018-08/2018 Project Member; Advisor: Yan Liu, Associate Professor of the Viterbi School of Engineering at USC
+#### Kaggle Competition: Predict Future Sales 07/2018-08/2018
+- Project Member; Advisor: Yan Liu, Associate Professor of the Viterbi School of Engineering at USC
 - Analyzed the data and did the data pre-processing.
 - Added the features such as time, price and place, and then predicted by XGBOOST algorithm.
 - Adjusted parameters, features and other factors until getting the optimal result, in order to find the best feature
 - The final score was 0.89310, and ranking is Top 3%
 
-#### The Appointment Platform ‘Rebooter’, a WeChat Mini Application on Campus 05/2018-07/2018 Front-end Developer; Advisor: Yanchun Sun, Associate Professor at School of EECS, Peking University
+#### The Appointment Platform ‘Rebooter’, a WeChat Mini Application on Campus 05/2018-07/2018 
+- Front-end Developer; Advisor: Yanchun Sun, Associate Professor at School of EECS, Peking University
 - Compiled the software requirement specifications by analyzing the needs of campus students.
 - Used WXSS, WXML and JAVASCRIPT to develop the functions, including authentication login, room
 creation, interest subscription, condition filtering, chat and etc.
