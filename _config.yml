@@ -39,15 +39,15 @@ excerpt_separator: <!-- more -->
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
-  weibo: https://www.weibo.com/u/1026231245/home?wvr=5 #请输入你的微博个性域名 https://www.weibo.com/<thispart>
+  weibo: #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
   email: jinzhao9681@gmail.com
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
-  github: https://github.com/Jchaochao #https://github.com/<>
+  github: Jchaochao #https://github.com/<>
   instagram: #https://instagram.com/<>
-  linkedin: #https://www.linkedin.com/in/<>
+  linkedin: zhao-jin-394424195 #https://www.linkedin.com/in/<>
   pinterest: #https://www.pinterest.com/<>
   rss: #随便填点啥RSS就能用了
   stackoverflow: # http://stackoverflow.com/<>
